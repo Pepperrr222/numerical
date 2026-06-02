@@ -237,10 +237,7 @@
       "smart-connections:Smart Connections: Open random connection": false,
       "copilot:Open Copilot Chat": false,
       "smart-lookup:Smart Lookup: Open lookup view": false,
-      "obsidian-git:Open Git source control": false,
-      "smart-context:Smart Context: Open Builder": false,
-      "smart-context:Smart Context: Copy to Clipboard (select depth)": false,
-      "smart-context:Smart Context: List Named Contexts": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "613cd350a85108ae",
