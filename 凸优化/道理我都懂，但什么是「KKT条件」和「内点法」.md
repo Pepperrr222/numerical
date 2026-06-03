@@ -31,7 +31,11 @@ $$\min_{x \in \mathbb{R}^n}  f(x)+ I_{-}(g(x))$$
 $$I_-(g(x))=\lambda g(x) $$
 这样目标函数有了很好的性质，但是不同解。我们注意到可以对$\lambda$取最值, 得到等价问题
 
-
+$$\inf_{x \in \mathcal{D}}\sup_{\lambda}  L(x, \lambda, \nu)$$
+其对偶问题：
+$$\sup_{\lambda} \inf_{x \in \mathcal{D}} L(x, \lambda, \nu)$$
+弱对偶定理：$$g(\lambda, \nu) \leq f_0(\tilde{x})$$
+这其实是$minmax\geq maxmin$的结果
 
 
 
