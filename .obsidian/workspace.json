@@ -37,16 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "凸优化/次梯度方法.md",
+                "file": "凸优化/凸优化导学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "次梯度方法"
+              "title": "凸优化导学"
+            }
+          },
+          {
+            "id": "e3e8c87d017073af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "凸优化/道理我都懂，什么是「凸性」和「对偶定理」.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "道理我都懂，什么是「凸性」和「对偶定理」"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,17 +276,30 @@
       "smart-connections:Smart Connections: Open random connection": false,
       "copilot:Open Copilot Chat": false,
       "smart-lookup:Smart Lookup: Open lookup view": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-context:Smart Context: Open Builder": false,
+      "smart-context:Smart Context: Copy to Clipboard (select depth)": false,
+      "smart-context:Smart Context: List Named Contexts": false
     }
   },
-  "active": "1d873872b9aff344",
+  "active": "e3e8c87d017073af",
   "lastOpenFiles": [
     "凸优化/保凸运算.md",
     "凸优化/半定规划 SDP.md",
+    "凸优化/凸函数一阶条件.md",
+    "凸优化/道理我都懂，什么是「凸性」和「对偶定理」.md",
+    "未命名 3.md",
+    "凸优化/凸优化导学.md",
+    "未命名.md",
+    "未命名 1.md",
+    "凸优化/共轭函数.md",
+    "凸优化/凸函数二阶条件.md",
+    "未命名.base",
+    "未命名 2.md",
+    "凸优化/次梯度方法.md",
     "Slater条件与约束品性.md",
     "凸优化问题标准形式.md",
     "无约束凸优化算法.md",
-    "未命名 2.md",
     "半定规划 SDP.md",
     "分离超平面定理.md",
     "凸优化",
@@ -286,24 +313,14 @@
     "凸集定义与性质.md",
     "凸优化.md",
     "凸优化算法.md",
-    "凸优化问题.md",
-    "未命名.base",
-    "共轭函数.md",
     "assets/未命名 2/file-20260531205711789.png",
     "assets/未命名 2",
-    "未命名.md",
-    "未命名 1.md",
     "assets/未命名 1/file-20260531205654291.png",
     "assets/未命名 1",
     "assets",
-    "对偶锥与广义不等式.md",
-    "上镜图与下水平集.md",
-    "凸函数.md",
     "未命名",
-    "线性规划 LP.md",
     "凸优化.md.tmp.85864.260107a4bf87",
     "凸优化导学.md.tmp.85864.eda1ccccdb28",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts",
     "copilot/copilot-custom-prompts/assets/Explain like I am 5/file-20260514203128238.png"
   ]
