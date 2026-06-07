@@ -21,14 +21,10 @@
             "id": "4e9045a62ec325ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slater条件与约束品性.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Slater条件与约束品性"
+              "title": "新标签页"
             }
           },
           {
@@ -131,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3bc9c8f00a8e0cc5",
@@ -292,10 +287,7 @@
       "smart-connections:Smart Connections: Open random connection": false,
       "copilot:Open Copilot Chat": false,
       "smart-lookup:Smart Lookup: Open lookup view": false,
-      "obsidian-git:Open Git source control": false,
-      "smart-context:Smart Context: Open Builder": false,
-      "smart-context:Smart Context: Copy to Clipboard (select depth)": false,
-      "smart-context:Smart Context: List Named Contexts": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "39d1201d90e660ca",
